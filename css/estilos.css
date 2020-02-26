@@ -1,7 +1,7 @@
 body{
     color: rgb(26, 67, 83);
     text-align: center;
-    font-family: "courier";
+    font-family: "Roboto";
     margin: 0;
     padding: 0;
 }
@@ -17,7 +17,7 @@ body{
 }
 
 #cabecera{
-    background: #e96a6a;
+    background: #db4d4d;
     box-shadow: 0px 2px 20px 0px rgb(26, 67, 83);
     color: white;
     font-weight: bold;
